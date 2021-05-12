@@ -1,0 +1,27 @@
+.hidden{
+    display: none;
+}
+
+.togglebutton {
+    position: relative;
+    
+}
+
+.numbers {
+    display: none;
+}
+
+ul {
+    list-style-type: none;
+    border: 1px solid black;
+    position: absolute;
+    margin: 0;
+    background: white;
+}
+
+.content {
+    margin-top: 10px;
+}
+
+
+
